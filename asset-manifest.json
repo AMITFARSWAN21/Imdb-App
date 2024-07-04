@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Imdb-App/static/css/main.d1c92eee.css",
+    "main.js": "/Imdb-App/static/js/main.41aa5f55.js",
+    "index.html": "/Imdb-App/index.html",
+    "main.d1c92eee.css.map": "/Imdb-App/static/css/main.d1c92eee.css.map",
+    "main.41aa5f55.js.map": "/Imdb-App/static/js/main.41aa5f55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c92eee.css",
+    "static/js/main.41aa5f55.js"
+  ]
+}
